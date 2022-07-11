@@ -1,0 +1,26 @@
+body{
+    background-color: #e5eaf5;
+}
+#welcome{
+    color: rgb(41, 41, 102);
+    text-align: center;
+    
+}
+.wrapper{
+    width: 200px;
+    text-align: center;
+    align-items: center;
+}
+
+.btn{
+    width: 150px;
+    background-color: rgb(31, 3, 58);
+    border: none;
+    color: white;
+    border-radius: 2px;
+    padding: 5px;
+    cursor: pointer;
+}
+#urls{
+    text-decoration: none;
+}
